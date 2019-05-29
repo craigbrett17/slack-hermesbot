@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>5345D632-D5CD-4249-86C3-A7A549765CDF</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
