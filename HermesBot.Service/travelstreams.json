@@ -1,0 +1,9 @@
+{
+  "TravelStreams": {
+    "TFL": {
+      "Enabled": true,
+      "ScheduleExpression": "*/15 15-19 * * 1-5",
+      "TargetChannel": "#london-travel"
+    }
+  }
+}
